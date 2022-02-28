@@ -1,0 +1,26 @@
+{
+  "name": "omnipress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":{
+    "type": "git",
+	  "url": "git+https://github.com/delcsilva/omnipress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs":{
+    "url": "https://github.com/delcsilva/omnipress/issues"
+  },
+  "homepage": "https://github.com/delcsilva/omnipress#readme",
+  "dependencies": {
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
